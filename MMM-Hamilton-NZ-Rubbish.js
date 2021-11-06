@@ -1,13 +1,13 @@
 /* global Module */
 
 /* Magic Mirror
- * Module: {{MODULE_NAME}}
+ * Module: MMM-Hamilton-NZ-Rubbish
  *
  * By {{AUTHOR_NAME}}
  * {{LICENSE}} Licensed.
  */
 
-Module.register("{{MODULE_NAME}}", {
+Module.register("MMM-Hamilton-NZ-Rubbish", {
 	defaults: {
 		updateInterval: 60000,
 		retryDelay: 5000

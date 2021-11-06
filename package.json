@@ -1,8 +1,8 @@
 {
-  "name": "MagicMirror-Module-Template",
-  "version": "1.2.0",
+  "name": "MMM-Hamilton-NZ-Rubbish",
+  "version": "0.1",
   "description": "Module Base template for create new modules for MagicMirror",
-  "main": "MagicMirror-Module-Template.js",
+  "main": "MMM-Hamilton-NZ-Rubbish.js",
   "scripts": {
     "test": "./node_modules/grunt/bin/grunt"
   },
